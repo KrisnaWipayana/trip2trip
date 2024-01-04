@@ -30,10 +30,10 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ml-auto">
             <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#">About</a>
-            <a class="nav-item nav-link" href="#">Contact</a>
-            <a class="nav-item nav-link" href="#">Login</a>
-            <a class="nav-item nav-link" href="#">Sign Up</a>
+            <a class="nav-item nav-link" href="/about">About</a>
+            <a class="nav-item nav-link" href="/contact">Contact</a>
+            <a class="nav-item nav-link" href="/login">Login</a>
+            <a class="nav-item nav-link" href="/daftar">Sign Up</a>
           </div>
         </div>
       </div>
@@ -258,7 +258,7 @@
 
     <div class="card text-center footer">
       <div class="card-footer text-muted" style="margin">
-      <h4>footer belom lese ya</h4>
+      <h4>FOOTER</h4>
       </div>
     </div>
     
