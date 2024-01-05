@@ -108,8 +108,9 @@
         </div>
       </div>
       
-      <div class="container content-center" >
-        <div class="col box-1">
+
+      <div class="container content-center">
+        <div class="col box-1" href="#">
           <div class="row">
           <img src="assets/main/img/box1.jpg" alt="Responsive image" class="img-fluid" style="width:375px ; height:264px ; border-radius:30px ">
           <h5>AYANA RESORT BALI</h5>
